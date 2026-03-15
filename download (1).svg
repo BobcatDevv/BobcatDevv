@@ -1,0 +1,29 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title {
+      fill: none;
+      stroke: white;
+      stroke-width: 7;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      font-size: 150px;
+      letter-spacing: 4px;
+      font-family: "Segoe Script", "Brush Script MT", cursive;
+    }
+
+    .subtitle {
+      fill: white;
+      font-size: 32px;
+      font-family: "Segoe UI", Arial, sans-serif;
+      opacity: 0.8;
+    }
+  </style>
+
+  <text x="50%" y="150" class="title" text-anchor="middle">
+    BOBCAT
+  </text>
+
+  <text x="50%" y="220" class="subtitle" text-anchor="middle">
+    Im just bobcat ngl
+  </text>
+</svg>

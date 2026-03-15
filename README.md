@@ -1,4 +1,17 @@
 Im just Bobcat ngl
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text {
+      fill: none;
+      stroke: white;
+      stroke-width: 7;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      font-size: 150px;
+      letter-spacing: 4px;
+      font-family: "Segoe Script", "Brush Script MT", cursive;
+    }
+  </style>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=dark)
+  <text x="40" y="160">BOBCAT</text>
+</svg>
